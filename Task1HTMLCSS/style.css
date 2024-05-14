@@ -1,0 +1,27 @@
+
+
+body
+{
+ background:#fdcc04;
+}
+
+.column-center
+ {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.main-image 
+{ width: 50%;
+height: 50%;
+}
+
+.colored-heading 
+{
+display: inline-block;
+background-color: blanchedalmond;
+padding: 10px 20px;
+border-radius: 10px;
+}
